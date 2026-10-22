@@ -1,0 +1,14 @@
+# Compiled output from the VS Code build task
+/vector_demo
+/a.out
+
+# Common C/C++ build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+/build/
+/out/
